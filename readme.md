@@ -1,5 +1,3 @@
-// write read me ?  just write dummy read me for test  project   with some dummy text    and some dummy heading  
-
  # Test Project
 
   Welcome to the Test Project! This is a simple project created for the purpose of testing and demonstration.
@@ -72,4 +70,3 @@
                         ![Screenshot 1](screenshot1.png)
                         ![Screenshot 2](screenshot2.png)
 
-                        
